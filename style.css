@@ -1,0 +1,59 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  text-align: center;
+}
+#city{
+  font-size: 24px;
+  
+}
+
+input {
+  display: block;
+}
+form,
+.auto-class {
+  margin: 0.5rem auto;
+  width: 30%;
+}
+.container{
+  max-width: 65%;
+  background-color: rgb(65, 67, 68);
+  opacity: 0.9;
+  border-radius: 10px;
+}
+.bottom-pannel{
+margin: 10px;
+text-align: center;
+background-color: rgb(194, 198, 201);
+}
+.align-right{
+  text-align: right;
+}
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+.border-bottom{
+   border-bottom: 1px solid #ccc;
+}
+
+.buttonCurrentLoc{
+  padding: 10px;
+  width: 60%;
+  background-color:#023020 ;
+}
+.white-color{
+  color: white;
+  font-size: 16px;
+}
+
+
